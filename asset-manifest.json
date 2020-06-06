@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploy-react/static/css/main.4e1ce5f0.chunk.css",
+    "main.js": "/deploy-react/static/js/main.082e892f.chunk.js",
+    "main.js.map": "/deploy-react/static/js/main.082e892f.chunk.js.map",
+    "runtime-main.js": "/deploy-react/static/js/runtime-main.08203fe5.js",
+    "runtime-main.js.map": "/deploy-react/static/js/runtime-main.08203fe5.js.map",
+    "static/js/2.879995cf.chunk.js": "/deploy-react/static/js/2.879995cf.chunk.js",
+    "static/js/2.879995cf.chunk.js.map": "/deploy-react/static/js/2.879995cf.chunk.js.map",
+    "index.html": "/deploy-react/index.html",
+    "precache-manifest.f4ed0ecc09fe5c3cbb5bc53df27e6f53.js": "/deploy-react/precache-manifest.f4ed0ecc09fe5c3cbb5bc53df27e6f53.js",
+    "service-worker.js": "/deploy-react/service-worker.js",
+    "static/css/main.4e1ce5f0.chunk.css.map": "/deploy-react/static/css/main.4e1ce5f0.chunk.css.map",
+    "static/js/2.879995cf.chunk.js.LICENSE.txt": "/deploy-react/static/js/2.879995cf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/deploy-react/static/media/geek.aecdd640.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08203fe5.js",
+    "static/js/2.879995cf.chunk.js",
+    "static/css/main.4e1ce5f0.chunk.css",
+    "static/js/main.082e892f.chunk.js"
+  ]
+}
